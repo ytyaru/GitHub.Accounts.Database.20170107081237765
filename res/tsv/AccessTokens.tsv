@@ -1,10 +1,10 @@
-Id	AccountId	AccessToken	Scopes
-0	0	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	repo
-1	0	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	repo,delete_repo
-2	1	cccccccccccccccccccccccccccccccccccccccc	gist,repo
-3	1	dddddddddddddddddddddddddddddddddddddddd	gist,repo,delete_repo
-4	2	eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	delete_repo
-5	2	ffffffffffffffffffffffffffffffffffffffff	notifications,read:repo_hook
-6	3	gggggggggggggggggggggggggggggggggggggggg	admin:repo_hook,admin:org_hook
-7	3	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh	admin:public_key
-8	3	iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii	admin:gpg_key,read:public_key
+Id	AccountId	IdOnGitHub	Note	AccessToken	Scopes
+0	0	000	note0	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	repo
+1	0	001	note1	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	repo,delete_repo
+2	1	002	note2	cccccccccccccccccccccccccccccccccccccccc	gist,repo
+3	1	003	note3	dddddddddddddddddddddddddddddddddddddddd	gist,repo,delete_repo
+4	2	004	note4	eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	delete_repo
+5	2	005	note5	ffffffffffffffffffffffffffffffffffffffff	notifications,read:repo_hook
+6	3	006	note6	gggggggggggggggggggggggggggggggggggggggg	admin:repo_hook,admin:org_hook
+7	3	007	note7	hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh	admin:public_key
+8	3	008	note8	iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii	admin:gpg_key,read:public_key
